@@ -1,6 +1,6 @@
 # User Control [MOD by @WillianSantos__]
 
-Componente User Control para Delphi 10.3 Rio
+Componente User Control para Delphi 10.3 Rio.
 Fiz algumas alterações para ficar mais compactível na instalação.
 
 Os fontes originais e crédito é para o desenvolvedor da ShowDelphi, veja o link abaixo
